@@ -8,7 +8,7 @@ Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and 
 
 ## Features
 1.auto detect hashes type and check if they are vulnerable
-2.send the new generated signatures to website and exclude results that contains words in resfilter option
+\n2.send the new generated signatures to website and exclude results that contains words in resfilter option
 
 ## Installation
 1.```sh git clone https://github.com/0xMohammed/Hash-Extender-Bruter.git```
