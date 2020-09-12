@@ -23,6 +23,7 @@ Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and 
 3.```sh -s : signature (hash)```  
 4.```sh -a : data to add i.e. user=admin```  
 5.```sh -r : bad word i.e. 'wrong signature'```  
+  
 ![Alt Text](https://github.com/0xMohammed/Hash-Extender-Bruter/blob/master/Images/Peek%202020-09-11%2018-45.gif)  
   
 ##Refrences  
