@@ -11,18 +11,18 @@ Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and 
 2.send the new generated signatures to website and exclude results that contains words in resfilter option  
   
 ## Installation  
-1.```sh git clone https://github.com/0xMohammed/Hash-Extender-Bruter.git```  
-2.```sh cd Hash-Extender-Bruter```  
-3.```sh mv ./hash-extender /usr/bin```  
-4.```sh pip3 install -r requirements.txt```  
-5.```sh chmod +x ./Hash-Extender-bruter.py```  
+1.```git clone https://github.com/0xMohammed/Hash-Extender-Bruter.git```  
+2.```cd Hash-Extender-Bruter```  
+3.```mv ./hash-extender /usr/bin```  
+4.```pip3 install -r requirements.txt```  
+5.```chmod +x ./Hash-Extender-bruter.py```  
   
 ## Usage  
-1.```sh -h : show help menu```  
-2.```sh -d : the original data i.e. user=demo```  
-3.```sh -s : signature (hash)```  
-4.```sh -a : data to add i.e. user=admin```  
-5.```sh -r : bad word i.e. 'wrong signature'```  
+1.```-h : show help menu```  
+2.```-d : the original data i.e. user=demo```  
+3.```-s : signature (hash)```  
+4.```-a : data to add i.e. user=admin```  
+5.```-r : bad word i.e. 'wrong signature'```  
   
 ![Alt Text](https://github.com/0xMohammed/Hash-Extender-Bruter/blob/master/Images/Peek%202020-09-11%2018-45.gif)  
   
