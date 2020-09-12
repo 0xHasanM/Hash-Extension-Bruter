@@ -5,6 +5,7 @@ Hash-Extender-Bruter is a tool in python to bruteforce Hash-extender length and 
 * [Features](#Features)  
 * [Installation](#Installation)  
 * [Usage](#Usage)  
+* [Refrences](#Refrences)  
   
 ## Features  
 1.auto detect hashes type and check if they are vulnerable  
